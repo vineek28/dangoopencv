@@ -36,7 +36,7 @@ jax==0.4.8
 Jinja2==3.1.2
 keras==2.12.0
 Keras-Applications==1.0.8
-keras-ocr==0.9.2
+keras-ocr
 kiwisolver==1.4.4
 lazy_loader==0.2
 libclang==16.0.0
